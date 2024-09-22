@@ -1,8 +1,5 @@
-# React + Vite
+# TODO LIST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made this todo list using React and Tailwind
+Learn About Use Of Context Api and Local Browser Stroage to store user data statically
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
